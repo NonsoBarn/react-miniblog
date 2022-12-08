@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-miniblog.git/static/css/main.6676774c.css",
+    "main.js": "/react-miniblog.git/static/js/main.50923a83.js",
+    "index.html": "/react-miniblog.git/index.html",
+    "main.6676774c.css.map": "/react-miniblog.git/static/css/main.6676774c.css.map",
+    "main.50923a83.js.map": "/react-miniblog.git/static/js/main.50923a83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6676774c.css",
+    "static/js/main.50923a83.js"
+  ]
+}
