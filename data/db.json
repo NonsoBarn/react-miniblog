@@ -1,0 +1,69 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Top Ten Must Have Gadgets",
+      "subtitle": "why you should have these gadgets",
+      "image": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Volutpat est velit egestas dui id. Enim facilisis gravida neque convallis a cras. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Ipsum dolor sit amet consectetur adipiscing elit duis tristique. Mauris a diam maecenas sed enim ut sem viverra aliquet. Amet mattis vulputate enim nulla aliquet porttitor. Mi tempus imperdiet nulla malesuada pellentesque elit eget. Consequat ac felis donec et odio pellentesque diam volutpat. Ultrices in iaculis nunc sed augue lacus viverra. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Arcu risus quis varius quam quisque id diam. Phasellus faucibus scelerisque eleifend donec pretium. Scelerisque fermentum dui faucibus in ornare quam viverra orci. Est placerat in egestas erat imperdiet sed. Tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum.",
+      "author": "Omolabake Alakija",
+      "authorprof": "Graphic Desiger,Blogger &CEO Hysead Inc",
+      "tag": "Mobile, Tech"
+    },
+
+    {
+      "id": 2,
+      "title": "Top Ten Must Have Gadgets",
+      "subtitle": "why you should have these gadgets",
+      "image": "https://images.pexels.com/photos/1623016/pexels-photo-1623016.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Felis eget nunc lobortis mattis aliquam faucibus purus in. Aliquam vestibulum morbi blandit cursus risus at ultrices. Ullamcorper malesuada proin libero nunc consequat. Ut eu sem integer vitae justo eget magna fermentum iaculis. In eu mi bibendum neque egestas congue quisque egestas. Ut faucibus pulvinar elementum integer enim neque. Justo laoreet sit amet cursus sit amet dictum. Mi sit amet mauris commodo quis imperdiet massa. Elementum nisi quis eleifend quam adipiscing. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero. Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. Cras semper auctor neque vitae tempus quam pellentesque nec. Vitae purus faucibus ornare suspendisse sed nisi lacus sed viverra.",
+      "author": "Alex Barn",
+      "authorprof": "Blogger, Tech Enthusiast",
+      "tag": "Design"
+    },
+
+    {
+      "id": 3,
+      "title": "Top Ten Must Have Gadgets",
+      "subtitle": "why you should have these gadgets",
+      "image": "https://images.pexels.com/photos/6499009/pexels-photo-6499009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt vitae semper quis lectus nulla at volutpat. Id venenatis a condimentum vitae sapien. Et malesuada fames ac turpis. Commodo ullamcorper a lacus vestibulum sed arcu non odio. Nisl nunc mi ipsum faucibus. Enim eu turpis egestas pretium aenean pharetra magna. At quis risus sed vulputate odio ut enim blandit volutpat. Ultrices neque ornare aenean euismod elementum nisi quis eleifend. Eget nullam non nisi est sit amet. Erat nam at lectus urna duis. Morbi non arcu risus quis varius quam quisque id diam. Nullam eget felis eget nunc lobortis. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Diam ut venenatis tellus in metus. Sed sed risus pretium quam vulputate dignissim suspendisse in. In hac habitasse platea dictumst. Tortor at risus viverra adipiscing at in tellus integer feugiat.",
+      "author": "Nonso Barn",
+      "authorprof": "FrontEnd Developer,Blogger",
+      "tag": "Tech"
+    },
+
+    {
+      "id": 4,
+      "title": "Top Ten Must Have Gadgets",
+      "subtitle": "why you should have these gadgets",
+      "image": "https://images.pexels.com/photos/9785010/pexels-photo-9785010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum eu facilisis sed odio morbi quis commodo odio aenean. Amet cursus sit amet dictum sit amet. Mattis molestie a iaculis at erat pellentesque adipiscing. Aenean sed adipiscing diam donec. Id faucibus nisl tincidunt eget nullam non nisi. Sit amet porttitor eget dolor morbi non arcu risus. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Non arcu risus quis varius quam quisque id.",
+      "author": "Omolabake Alakija",
+      "authorprof": "Graphic Desiger,Blogger & CEO Hysead Inc",
+      "tag": "Mobile"
+    },
+
+    {
+      "id": 5,
+      "title": "Top Ten Must Have Gadgets",
+      "subtitle": "why you should have these gadgets",
+      "image": "https://images.pexels.com/photos/7550542/pexels-photo-7550542.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam. Nisl purus in mollis nunc sed id semper risus in. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Tellus at urna condimentum mattis pellentesque id nibh tortor id. Donec ultrices tincidunt arcu non sodales. Varius vel pharetra vel turpis. Tempus iaculis urna id volutpat lacus laoreet non. Diam sollicitudin tempor id eu nisl nunc. Vulputate mi sit amet mauris commodo quis imperdiet.",
+      "author": "Alex Barn",
+      "authorprof": "Blogger, Tech Enthusiast",
+      "tag": "Design"
+    },
+
+    {
+      "id": 6,
+      "title": "Top Ten Must Have Gadgets",
+      "subtitle": "why you should have these gadgets",
+      "image": "https://images.pexels.com/photos/8728560/pexels-photo-8728560.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget sit amet tellus cras adipiscing enim eu turpis. Ac tortor dignissim convallis aenean et tortor. Euismod nisi porta lorem mollis aliquam ut. Fringilla phasellus faucibus scelerisque eleifend donec. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Nullam eget felis eget nunc lobortis. Diam vulputate ut pharetra sit amet. Tristique nulla aliquet enim tortor at auctor urna nunc. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum. Nulla posuere sollicitudin aliquam ultrices sagittis orci a. Morbi tempus iaculis urna id volutpat lacus laoreet non curabitur. Ac felis donec et odio pellentesque diam volutpat.",
+      "authorprof": "Chiwetalu Austin",
+      "prof": "Blogger, Tech Enthusiast",
+      "tag": "Tech"
+    }
+  ]
+}
