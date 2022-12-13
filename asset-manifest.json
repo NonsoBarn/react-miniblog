@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-miniblog.git/static/css/main.6676774c.css",
-    "main.js": "/react-miniblog.git/static/js/main.50923a83.js",
-    "index.html": "/react-miniblog.git/index.html",
-    "main.6676774c.css.map": "/react-miniblog.git/static/css/main.6676774c.css.map",
-    "main.50923a83.js.map": "/react-miniblog.git/static/js/main.50923a83.js.map"
+    "main.css": "/react-miniblog/static/css/main.0515fb0b.css",
+    "main.js": "/react-miniblog/static/js/main.96cd1a2b.js",
+    "index.html": "/react-miniblog/index.html",
+    "main.0515fb0b.css.map": "/react-miniblog/static/css/main.0515fb0b.css.map",
+    "main.96cd1a2b.js.map": "/react-miniblog/static/js/main.96cd1a2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.6676774c.css",
-    "static/js/main.50923a83.js"
+    "static/css/main.0515fb0b.css",
+    "static/js/main.96cd1a2b.js"
   ]
 }
